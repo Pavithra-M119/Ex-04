@@ -92,10 +92,8 @@ return buf.toString(); }
 }
 ```
 ## OUTPUT:
-```
 ![Screenshot (28)](https://github.com/Pavithra-M119/Ex-04/assets/119229774/d017feea-7617-4681-bb94-e6555d8404fd)
 
-```
 ## RESULT:
 Thus SHA was implemented successfully.
 
